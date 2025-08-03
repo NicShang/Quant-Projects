@@ -15,7 +15,7 @@ This project implements a reusable and modular Black-Scholes pricing engine to c
   - Full Greek calculations: Delta, Gamma, Vega, Theta, Rho
 
 - **Market Sensitivity Analysis**  
-  Encoded option pricing sensitivity to market factors (spot, rate, volatility, time), reflecting SIG’s scenario-based signal research logic.
+  Encoded option pricing sensitivity to market factors (spot, rate, volatility, time)
 
 - **Surface Simulation**  
   Generated multi-dimensional pricing surfaces and Greek response maps to visualize convex risk behaviors and non-linear exposure patterns—crucial for identifying signal curvature and macro sensitivity.
