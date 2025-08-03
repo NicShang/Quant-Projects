@@ -26,9 +26,6 @@ This project implements a reusable and modular Black-Scholes pricing engine to c
   - Hedge analysis
   - Trading overlays and signal interpretation
 
-- **Extensibility & Reusability**  
-  Structured the module for future development with clean class design, enabling rapid iteration of new signal testing in live-like settings—aligned with SIG’s research infrastructure philosophy.
-
 ## Example Outputs
 
 - Option price and Greeks at time of trade
