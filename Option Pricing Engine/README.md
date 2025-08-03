@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project implements a reusable and modular Black-Scholes pricing engine to compute analytical values and sensitivities (Greeks) for European call and put options. It was built to reflect SIG-style derivatives signal prototyping, enabling users to simulate option exposures under shifting market dynamics.
+This project implements a reusable and modular Black-Scholes pricing engine to compute analytical values and sensitivities (Greeks) for European call and put options. 
 
 ## Key Features
 
@@ -41,7 +41,4 @@ This engine simulates how derivative exposures evolve under changing inputs, off
 - Convex risk behavior
 - Signal resilience to macro volatility
 - Real-time stress diagnostics
-
-It mirrors how SIG’s quant teams might prototype, refine, and communicate option-based signals in a research-to-trading pipeline.
-
 ---
